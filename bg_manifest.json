@@ -1,0 +1,433 @@
+{
+ "bosque_noche": {
+  "pack": "Clouds 3",
+  "layers": [
+   {
+    "file": "bg/bosque_noche/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/bosque_noche/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/bosque_noche/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/bosque_noche/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "cavernas_ruinas": {
+  "pack": "Ocean_7",
+  "layers": [
+   {
+    "file": "bg/cavernas_ruinas/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/cavernas_ruinas/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/cavernas_ruinas/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/cavernas_ruinas/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   },
+   {
+    "file": "bg/cavernas_ruinas/5.png",
+    "f": 0.058,
+    "cap": 10,
+    "drift": 2.5,
+    "base": false
+   }
+  ]
+ },
+ "cielo_azul": {
+  "pack": "Clouds 1",
+  "layers": [
+   {
+    "file": "bg/cielo_azul/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/cielo_azul/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_azul/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_azul/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "cielo_mar": {
+  "pack": "Ocean_3",
+  "layers": [
+   {
+    "file": "bg/cielo_mar/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/cielo_mar/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_mar/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_mar/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "cielo_alto": {
+  "pack": "Clouds 5",
+  "layers": [
+   {
+    "file": "bg/cielo_alto/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/cielo_alto/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_alto/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_alto/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "cielo_costa": {
+  "pack": "Ocean_4",
+  "layers": [
+   {
+    "file": "bg/cielo_costa/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/cielo_costa/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_costa/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/cielo_costa/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "tormenta_gris": {
+  "pack": "Clouds 6",
+  "layers": [
+   {
+    "file": "bg/tormenta_gris/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/tormenta_gris/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_gris/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_gris/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_gris/5.png",
+    "f": 0.058,
+    "cap": 10,
+    "drift": 2.5,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_gris/6.png",
+    "f": 0.07,
+    "cap": 12,
+    "drift": 3.0,
+    "base": false
+   }
+  ]
+ },
+ "tormenta_mar": {
+  "pack": "Ocean_8",
+  "layers": [
+   {
+    "file": "bg/tormenta_mar/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/tormenta_mar/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_mar/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_mar/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   },
+   {
+    "file": "bg/tormenta_mar/5.png",
+    "f": 0.058,
+    "cap": 10,
+    "drift": 2.5,
+    "base": false
+   }
+  ]
+ },
+ "atardecer_rosa": {
+  "pack": "Clouds 7",
+  "layers": [
+   {
+    "file": "bg/atardecer_rosa/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/atardecer_rosa/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/atardecer_rosa/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/atardecer_rosa/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ },
+ "atardecer_mar": {
+  "pack": "Ocean_2",
+  "layers": [
+   {
+    "file": "bg/atardecer_mar/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/atardecer_mar/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/atardecer_mar/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   }
+  ]
+ },
+ "espacio_violeta": {
+  "pack": "Clouds 8",
+  "layers": [
+   {
+    "file": "bg/espacio_violeta/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/espacio_violeta/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_violeta/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_violeta/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_violeta/5.png",
+    "f": 0.058,
+    "cap": 10,
+    "drift": 2.5,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_violeta/6.png",
+    "f": 0.07,
+    "cap": 12,
+    "drift": 3.0,
+    "base": false
+   }
+  ]
+ },
+ "espacio_luna": {
+  "pack": "Ocean_6",
+  "layers": [
+   {
+    "file": "bg/espacio_luna/1.png",
+    "f": 0,
+    "cap": 0,
+    "drift": 0,
+    "base": true
+   },
+   {
+    "file": "bg/espacio_luna/2.png",
+    "f": 0.022,
+    "cap": 4,
+    "drift": 1.0,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_luna/3.png",
+    "f": 0.034,
+    "cap": 6,
+    "drift": 1.5,
+    "base": false
+   },
+   {
+    "file": "bg/espacio_luna/4.png",
+    "f": 0.046,
+    "cap": 8,
+    "drift": 2.0,
+    "base": false
+   }
+  ]
+ }
+}

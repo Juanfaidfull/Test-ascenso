@@ -1,0 +1,17 @@
+COLOCA AQUÍ LAS PISTAS DE MÚSICA (no van dentro del HTML)
+
+Pon estos archivos en esta carpeta (assets/audio/music/), junto al HTML del juego.
+Puedes usar el nombre con espacios o con guiones bajos (los dos valen):
+
+  Pixel Night Ascent.ogg      (menú)
+  Moonlit Forest.ogg          (bosque)
+  Cave Echoes.ogg             (cavernas)
+  Skyward Adventure.ogg       (cielo y partidas VS)
+  Stormy Sunset.ogg           (tormenta)
+  Final Zone Ascent.ogg       (espacio)
+  Final Impact.ogg            (jefe)
+  Cozy Shop Loop.ogg          (tienda)
+  New Record Fanfare.ogg      (récord)
+  Victory Fanfare.ogg         (victoria)
+
+Si falta alguna pista, ese tema se calla y el juego sigue funcionando sin errores.

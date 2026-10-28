@@ -1,0 +1,34 @@
+ESPECIFICACIÓN DEL SEGUNDO PERSONAJE (CHICA GUERRERA)
+====================================================
+
+Para que sea del MISMO tamaño y se comporte igual que el héroe, sus sprites deben cumplir esto.
+
+FORMATO
+- PNG con fondo transparente.
+- Una hoja horizontal por animación, en la carpeta: assets/img/chica/
+- Cada cuadro mide 90 x 52 px (igual que el héroe).
+- El cuerpo visible mide unos 37 px de alto dentro del cuadro (como el héroe).
+- Los pies van sobre la misma línea que el héroe: la fila 51 del cuadro.
+- Mira a la DERECHA (como el héroe): al caminar a la izquierda el juego la voltea.
+
+ANIMACIONES (nombre de archivo, cuadros, ancho total de la hoja)
+- idle.png      10 cuadros   900 x 52   (quieta, respirando)
+- walk.png      10 cuadros   900 x 52   (caminar)
+- run.png       10 cuadros   900 x 52   (correr)
+- jump.png       6 cuadros   540 x 52   (saltar)
+- fall.png       4 cuadros   360 x 52   (empezar a caer)
+- fall_loop.png  3 cuadros   270 x 52   (cayendo)
+- combo_1.png    3 cuadros   270 x 52   (golpe de espada)
+- combo_1_end.png 4 cuadros  360 x 52   (final del golpe)
+
+COLORES
+- Pinta en 3 tonos por parte (piel, pelo, camisa, bufanda, zapatos, pantalón),
+  como el héroe, para que la personalización funcione.
+- Contorno oscuro de 1 px. Sin degradados que mezclen una parte con otra.
+
+LO QUE NO LLEVA SPRITE PROPIO
+- Escudo, tirachinas y bolas: se dibujan igual que en el héroe.
+
+PARA CONECTARLA
+- Con las hojas en assets/img/chica/, la conecto al selector de personaje,
+  al online, al entrenamiento y a las oleadas, y la pruebo con escudo y tirachinas.
